@@ -55,9 +55,9 @@
     <name>Chobits</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;9-1;18-2;</mapping>
       <mapping anidbseason="1" tvdbseason="1" start="10" end="17" offset="-1"/>
       <mapping anidbseason="1" tvdbseason="1" start="19" end="26" offset="-2"/>
-      <mapping anidbseason="1" tvdbseason="0">;9-1;18-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13" tvdbid="78947" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
@@ -31208,7 +31208,7 @@
     <name>Kidou Senshi Gundam: Tekketsu no Orphans</name>
   </anime>
   <anime anidbid="11373" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ganbare-bu Next!</name>
+    <name>Ganbare Bu Next!</name>
   </anime>
   <anime anidbid="11374" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Stitch! Perfect Memory</name>
@@ -34145,7 +34145,7 @@
     <name>Kirakira Precure A La Mode</name>
   </anime>
   <anime anidbid="12504" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Hua Jianghu: Buliang Ren Di Er Ji</name>
+    <name>Hua Jianghu: Buliang Ren II</name>
   </anime>
   <anime anidbid="12505" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kamigami no Ki</name>
@@ -34412,7 +34412,7 @@
     <name>Onaka no Ookina Ouji-sama</name>
   </anime>
   <anime anidbid="12592" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yuuki Hitotsu wo Tomo ni Shite</name>
+    <name>Yuuki Hitotsu o Tomo ni Shite</name>
   </anime>
   <anime anidbid="12593" tvdbid="music video" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Compiler: Music Clips in Trackdown</name>
@@ -38343,7 +38343,7 @@
     <name>Bakumatsu: Ren'ai Bakumatsu Kareshi Gaiden</name>
   </anime>
   <anime anidbid="13972" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Yarichin Bitch-bu</name>
+    <name>Yarichin Bitch Bu</name>
   </anime>
   <anime anidbid="13973" tvdbid="382868" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="">
     <name>Lapis Re:Lights</name>
@@ -40269,7 +40269,7 @@
     <name>Ling Feng Zhe</name>
   </anime>
   <anime anidbid="14647" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Hua Jianghu: Buliang Ren Di San Ji</name>
+    <name>Hua Jianghu: Buliang Ren III</name>
   </anime>
   <anime anidbid="14648" tvdbid="370951" defaulttvdbseason="1" episodeoffset="" tmdbid="" imdbid="tt9845246">
     <name>Super Shiro</name>
@@ -42522,7 +42522,7 @@
     <name>Duel Masters King</name>
   </anime>
   <anime anidbid="15472" tvdbid="370931" defaulttvdbseason="2" episodeoffset="" tmdbid="" imdbid="">
-    <name>Magia Record: Mahou Shoujo Madoka Magica Gaiden 2nd Season</name>
+    <name>Magia Record: Mahou Shoujo Madoka Magica Gaiden 2nd Season - Kakusei Zen'ya</name>
   </anime>
   <anime anidbid="15473" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>A Song for You! You? You!!</name>
@@ -42786,7 +42786,7 @@
     <name>Zetsubou Funsai Shoujo Amida</name>
   </anime>
   <anime anidbid="15573" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Wu Shang Shen Di</name>
+    <name>Wushang Shen Di</name>
   </anime>
   <anime anidbid="15574" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Kyouryuu Shoujo Gauko (2020)</name>
@@ -42933,7 +42933,7 @@
     <name>The Idolmaster Million Live!</name>
   </anime>
   <anime anidbid="15626" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>PokeToon: Zuruggu and Mimikkyu</name>
+    <name>PokeToon</name>
   </anime>
   <anime anidbid="15627" tvdbid="300989" defaulttvdbseason="3" episodeoffset="" tmdbid="" imdbid="">
     <name>Osomatsu-san (2020)</name>
@@ -43147,7 +43147,7 @@
     <name>Benghuai 3: Zuiren Wange</name>
   </anime>
   <anime anidbid="15702" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Machikado Mazoku 2</name>
+    <name>Machikado Mazoku (2022)</name>
   </anime>
   <anime anidbid="15704" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Oneshota The Animation</name>
@@ -44802,9 +44802,6 @@
   <anime anidbid="16288" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Anette-san to Liliana-san The Animation</name>
   </anime>
-  <anime anidbid="16289" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Ningen Kaishuusha</name>
-  </anime>
   <anime anidbid="16290" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Shiguan Daliren</name>
   </anime>
@@ -44872,7 +44869,7 @@
     <name>Ling Long: Incarnation Zhong Zhang</name>
   </anime>
   <anime anidbid="16314" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Hua Jianghu: Buliang Ren 4</name>
+    <name>Hua Jianghu: Buliang Ren IV</name>
   </anime>
   <anime anidbid="16315" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Video Ranger 007</name>
@@ -44920,7 +44917,7 @@
     <name>Station Idol Latch!</name>
   </anime>
   <anime anidbid="16332" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Hua Jianghu: Huan Shi Men Sheng 2</name>
+    <name>Hua Jianghu: Huan Shi Mensheng II</name>
   </anime>
   <anime anidbid="16334" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Hololive Alternative</name>
@@ -45088,9 +45085,48 @@
     <name>Isekai Ojisan</name>
   </anime>
   <anime anidbid="16390" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
-    <name>Gridman x Dynazenon</name>
+    <name>Yakunara Mug Cup mo Niban Kama</name>
   </anime>
   <anime anidbid="16391" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
     <name>Juan Siliang</name>
+  </anime>
+  <anime anidbid="16392" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Youjo Senki II</name>
+  </anime>
+  <anime anidbid="16393" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Youjo Senki: Sabaku no Pasta Daisakusen</name>
+  </anime>
+  <anime anidbid="16394" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Tomorrow's Leaves</name>
+  </anime>
+  <anime anidbid="16395" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Norakuro Nitouhei</name>
+  </anime>
+  <anime anidbid="16396" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wan Jie Duzun</name>
+  </anime>
+  <anime anidbid="16397" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Wushang Shen Di Di Er Ji</name>
+  </anime>
+  <anime anidbid="16398" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Shabake</name>
+  </anime>
+  <anime anidbid="16399" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Waccha Primagi!</name>
+  </anime>
+  <anime anidbid="16400" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Chizuru-chan Kaihatsu Nikki</name>
+  </anime>
+  <anime anidbid="16401" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Eiga Bakuten!!</name>
+  </anime>
+  <anime anidbid="16402" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Meirenyu: Haidao Laixi</name>
+  </anime>
+  <anime anidbid="16403" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Deep Insanity: The Lost Child</name>
+  </anime>
+  <anime anidbid="16404" tvdbid="" defaulttvdbseason="" episodeoffset="" tmdbid="" imdbid="">
+    <name>Magia Record: Mahou Shoujo Madoka Magica Gaiden Final Season - Asaki Yume no Akatsuki</name>
   </anime>
 </anime-list>

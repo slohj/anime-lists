@@ -55,9 +55,9 @@
     <name>Chobits</name>
     <mapping-list>
       <mapping anidbseason="0" tvdbseason="0">;1-3;2-4;</mapping>
+      <mapping anidbseason="1" tvdbseason="0">;9-1;18-2;</mapping>
       <mapping anidbseason="1" tvdbseason="1" start="10" end="17" offset="-1"/>
       <mapping anidbseason="1" tvdbseason="1" start="19" end="26" offset="-2"/>
-      <mapping anidbseason="1" tvdbseason="0">;9-1;18-2;</mapping>
     </mapping-list>
   </anime>
   <anime anidbid="13" tvdbid="78947" defaulttvdbseason="1">
@@ -30549,7 +30549,7 @@
     <name>Wixoss Diva(A)Live</name>
   </anime>
   <anime anidbid="15472" tvdbid="370931" defaulttvdbseason="2">
-    <name>Magia Record: Mahou Shoujo Madoka Magica Gaiden 2nd Season</name>
+    <name>Magia Record: Mahou Shoujo Madoka Magica Gaiden 2nd Season - Kakusei Zen'ya</name>
   </anime>
   <anime anidbid="15476" tvdbid="394118" defaulttvdbseason="1">
     <name>Maiko-san Chi no Makanai-san</name>
